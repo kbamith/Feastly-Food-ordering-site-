@@ -32,13 +32,13 @@ Drop ⭐ if you like the Repository
 Screenshots:-
 ## 🖼️ Feastly App Screenshots
 ### View all restaurants
-!(Screenshot-2025-07-11-115225.png)
+![View All Restaurants](images/Screenshot-2025-07-11-115225.png)
 
 _______________________________________________________________________________________________________________________________________________________________________________
 
 ### Pick a restaurant
-(Screenshot-2025-07-11-115324.png)
+![Pick a Restaurant](images/Screenshot-2025-07-11-115324.png)
 _______________________________________________________________________________________________________________________________________________________________________________
 ### Add the items to cart
-(Screenshot-2025-07-11-115426.png)
+![Add Items to Cart](images/Screenshot-2025-07-11-115426.png)
 
