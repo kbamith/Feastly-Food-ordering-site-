@@ -32,7 +32,7 @@ Drop ⭐ if you like the Repository
 Screenshots:-
 ## 🖼️ Feastly App Screenshots
 ### View all restaurants
-![View All Restaurants](images/Screenshot-2025-07-11-115225.png)
+![View All Restaurants](images/Screenshot 2025-07-11 115225.png)
 
 _______________________________________________________________________________________________________________________________________________________________________________
 
