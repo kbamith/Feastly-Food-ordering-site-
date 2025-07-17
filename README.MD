@@ -30,3 +30,6 @@ Make sure you've enabled CORS extension installed in your browser while fetching
 
 Drop ⭐ if you like the Repository
 Screenshots:-
+
+
+
