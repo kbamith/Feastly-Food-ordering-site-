@@ -30,6 +30,15 @@ Make sure you've enabled CORS extension installed in your browser while fetching
 
 Drop ⭐ if you like the Repository
 Screenshots:-
+## 🖼️ Feastly App Screenshots
+### View all restaurants
+!(images/Screenshot-2025-07-11-115225.png)
 
+_______________________________________________________________________________________________________________________________________________________________________________
 
+### Pick a restaurant
+(images/Screenshot-2025-07-11-115324.png)
+_______________________________________________________________________________________________________________________________________________________________________________
+### Add the items to cart
+(images/Screenshot-2025-07-11-115426.png)
 
