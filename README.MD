@@ -3,20 +3,20 @@ A Frontend food delivery application made using React and Swiggy's Live API.
 _____________________________________________________________________________________________________________________________________________________________________________
 
 Tech Stack :-
-1.Frontend Library: React JS
-2.Bundler: Parcel
-3.Styling: Tailwind CSS
-4.Testing: Jest
-5.State Management: Redux-toolkit
+1. Frontend Library: React JS
+2. Bundler: Parcel
+3. Styling: Tailwind CSS
+4. Testing: Jest
+5. State Management: Redux-toolkit
 _______________________________________________________________________________________________________________________________________________________________________________
 
 Features:-
-Shimmer UI
-Add to cart
-Get restaurants by current location from Swiggy API & getting the live data.
-Display them with Area name, Cuisines Category and Ratings.
-Search Restaurants by Name.
-For any restaurant, you can checkout all the different type of dishes available with details and prices per quantity.
+1. Shimmer UI
+2. Add to cart
+3. Get restaurants by current location from Swiggy API & getting the live data.
+4. Display them with Area name, Cuisines Category and Ratings.
+5. Search Restaurants by Name.
+6. For any restaurant, you can checkout all the different type of dishes available with details and prices per quantity.
 _______________________________________________________________________________________________________________________________________________________________________________
 
 How to run on your local
